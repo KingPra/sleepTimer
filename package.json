@@ -1,0 +1,22 @@
+{
+  "name": "sleeptimer",
+  "version": "1.0.0",
+  "description": "a sleep timer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingPra/sleepTimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingPra/sleepTimer/issues"
+  },
+  "homepage": "https://github.com/KingPra/sleepTimer#readme",
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
